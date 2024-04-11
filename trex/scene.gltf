@@ -308,16 +308,16 @@
   ],
   "images": [
     {
-      "uri": "https://raw.githack.com/AngeloTechRebels/arjsTest/872d9b08f52488d7f5e8f0bb2acc02470510cc12/trex/textures/Material_21_baseColor.png"
+      "uri": "https://raw.githack.com/Explaingithub/AR/9be40928d997481726b3b6df5cd637192f6666a1/trex/textures/Material_21_baseColor.png"
     },
     {
-      "uri": "https://raw.githack.com/AngeloTechRebels/arjsTest/872d9b08f52488d7f5e8f0bb2acc02470510cc12/trex/textures/Material_21_normal.png"
+      "uri": "https://raw.githack.com/Explaingithub/AR/9be40928d997481726b3b6df5cd637192f6666a1/trex/textures/Material_21_normal.png"
     },
     {
-      "uri": "https://raw.githack.com/AngeloTechRebels/arjsTest/872d9b08f52488d7f5e8f0bb2acc02470510cc12/trex/textures/Material_22_baseColor.png"
+      "uri": "https://raw.githack.com/Explaingithub/AR/9be40928d997481726b3b6df5cd637192f6666a1/trex/textures/Material_22_baseColor.png"
     },
     {
-      "uri": "https://raw.githack.com/AngeloTechRebels/arjsTest/872d9b08f52488d7f5e8f0bb2acc02470510cc12/trex/textures/Material_22_normal.png"
+      "uri": "https://raw.githack.com/Explaingithub/AR/9be40928d997481726b3b6df5cd637192f6666a1/trex/textures/Material_22_normal.png"
     }
   ],
   "materials": [
